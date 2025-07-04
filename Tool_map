@@ -1,0 +1,51 @@
+# Canva-for-VA-Learning
+
+Canva-for-VA-Learning/
+│
+├── level_0_introduction/
+│   ├── 00-why-canva-for-va.md
+│   └── 00-create-canva-account.md
+│
+├── level_1_basic_usage/
+│   ├── 01-canva-dashboard-tour.md
+│   ├── 02-create-design-quick.md
+│   ├── 03-choose-right-template.md
+│   ├── 04-edit-text-images.md
+│   ├── 05-download-export-files.md
+│
+├── level_2_design_fundamentals/
+│   ├── 06-color-palette-basics.md
+│   ├── 07-font-pairing-tips.md
+│   ├── 08-layout-and-spacing.md
+│   ├── 09-typography-rules.md
+│   └── 10-consistency-in-branding.md
+│
+├── level_3_va_design_tasks/
+│   ├── 11-social-media-post-template.md
+│   ├── 12-client-presentation-slides.md
+│   ├── 13-create-VA-infographics.md
+│   ├── 14-email-header-banner.md
+│   └── 15-content-calendar-visual.md
+│
+├── level_4-client_brand_work/
+│   ├── 16-brand-kit-setup.md
+│   ├── 17-client-logo-editing.md
+│   ├── 18-client-style-guide.md
+│   ├── 19-thumbnail-design-request.md
+│   └── 20-portfolio-template-custom.md
+│
+├── level_5_tool_integrations/
+│   ├── 21-canva-to-google-drive.md
+│   ├── 22-canva-with-dropbox.md
+│   ├── 23-publish-to-social-direct.md
+│   ├── 24-use-magic-resize.md
+│   └── 25-remove-background-tool.md
+│
+├── level_6_advanced_canva_tips/
+│   ├── 26-animate-designs.md
+│   ├── 27-video-editing-basics.md
+│   ├── 28-create-interactive-pdf.md
+│   ├── 29-team-collaboration.md
+│   └── 30-ai-magic-tools.md
+│
+└── roadmap.md
